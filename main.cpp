@@ -18,7 +18,7 @@ void display(vector<int>& nums) {
 }
 int main() {
 	vector<int>array(10);
-	array = { 26,56,1,25,84,54,61,92,72,3 };
+	array = { 26,56,12,25,84,54,61,92,72,3 };
 /*	Bubble_sort b_sort;
 	b_sort.bubble_sort(array);*/
 /*	Quick_sort q_sort;
